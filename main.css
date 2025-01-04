@@ -1,0 +1,59 @@
+*{
+    margin: 0px 0px;
+    padding: 0;
+}
+
+.node{
+    
+  background: rgb(98, 113, 160);
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  user-select: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  opacity: 0.7;
+  
+}
+
+#h0{
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+#h1{
+    background:rgb(255, 255, 255);
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+#h2{
+    background:rgb(255, 255, 255);
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+#h3{
+    background:rgb(255, 255, 255);
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#playerContainer{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
